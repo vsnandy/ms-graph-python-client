@@ -1,5 +1,6 @@
 # Custom
 samples/configs/config.ini
+samples/configs/*.jsonc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
